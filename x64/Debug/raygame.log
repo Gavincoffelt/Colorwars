@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\s189067\downloads\raygame-master\raygame-master\raygame\main.cpp(97): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\s189067\downloads\raygame-master\raygame-master\raygame\main.cpp(98): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\s189067\downloads\raygame-master\raygame-master\raygame\main.cpp(99): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s189067\downloads\raygame-master\raygame-master\raygame\main.cpp(100): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\s189067\downloads\raygame-master\raygame-master\raygame\main.cpp(102): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\s189067\downloads\raygame-master\raygame-master\raygame\main.cpp(106): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\s189067\downloads\raygame-master\raygame-master\raygame\main.cpp(110): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\s189067\downloads\raygame-master\raygame-master\raygame\main.cpp(113): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\s189067\downloads\raygame-master\raygame-master\raygame\main.cpp(118): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  raygame.vcxproj -> C:\Users\s189067\Downloads\raygame-master\raygame-master\x64\Debug\raygame.exe
