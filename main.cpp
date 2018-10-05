@@ -184,7 +184,7 @@ int main()
 						}
 					}
 					 else if(player1score == player2score) {
-						 DrawText("Its a tie! Would you like to restart? Y/N", 100, 500, 25, MAROON);
+						 DrawText("Its a tie! Would you like to restart? Y/N", 100, 500, 25, PURPLE);
 						 if (IsKeyDown(KEY_Y)) {
 							 main();
 						 }
